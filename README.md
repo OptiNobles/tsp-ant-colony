@@ -6,9 +6,11 @@ Ant colony optimizer designed to solve Travelling Salesman Problem (TSP).
 
 * Input should be in the form of a list [ [x_1, y_1], [x_2, y_2], ... , [x_n, y_n] ]
 ```python
+from random import randint
+
 towns = []
 
-for i in range(60):
+for town in range(60):
     towns.append([randint(0, 100), randint(0, 100)])
 ```
 * How to initialize 
