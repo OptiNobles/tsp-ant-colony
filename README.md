@@ -31,4 +31,5 @@ ACO_optimizer.plot()
 ```python
 ACO_optimizer.show_graph(fitted=True)
 ```
-![output_graph_ACO](https://user-images.githubusercontent.com/114445740/193543214-170eadb9-56ee-4a90-a213-a37d6ca3ecb9.png)
+![output_graph_ACO](https://user-images.githubusercontent.com/114445740/194718625-0cde36e7-4661-4a5e-95a3-4892421d44c2.png)
+
