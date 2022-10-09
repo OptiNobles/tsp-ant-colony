@@ -8,7 +8,7 @@ import time
 
 
 class AntColonyOptimizer:
-    def __init__(self, ants: int, evaporation_rate: float, intensification: float, alpha = 1.0, beta = 0.0, beta_evaporation_rate = 0.0,
+    def __init__(self, ants = 100, evaporation_rate = 0.15, intensification = 0.15, alpha = 1.0, beta = 0.0, beta_evaporation_rate = 0.0,
                  choose_best = 0.1):
             
         """
